@@ -1,0 +1,13 @@
+
+fastapi
+uvicorn[standard]
+cryptography
+sqlalchemy
+pydantic
+python-dotenv
+streamlit
+requests
+pytest
+httpx
+PyJWT
+pwdlib[argon2]
